@@ -1,0 +1,27 @@
+{
+  "md5": "8975d45f12bf765672d3e6a2c7699896",
+  "sha2": "4d5393f56177bc00b8e75dcd48de1ef7a641bea3",
+  "sha256": "5b48ebd6db0976be5caab1e6c6a16cff6b7578a3bcb267c851bc44ff95699e35",
+  "contents": {
+    "classes": {
+      "classes/module-info.class": {
+        "ver": 66,
+        "acc": 32768,
+        "nme": "module-info",
+        "mthds": [],
+        "flds": [],
+        "vanns": [
+          {
+            "dsc": "Ljava/lang/Deprecated;",
+            "vals": [
+              "since",
+              "22",
+              "forRemoval",
+              true
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
